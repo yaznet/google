@@ -18,3 +18,9 @@ body {
   float: right;
 }
 
+/* link */
+
+a:link { 
+  color: black;
+  text-decoration: none; 
+} 
