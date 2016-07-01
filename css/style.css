@@ -105,3 +105,15 @@ input {
 .menu_bottom_right {
   float: right;
 }
+
+/* Footer style */
+
+footer nav {
+  display: inline;
+  color: #757575;
+  height: 40px;
+  background-color: #eeeeee;
+  border: 1px solid #e0e0e0;
+}
+
+}
