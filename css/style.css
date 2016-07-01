@@ -68,3 +68,10 @@ input {
   font-weight: bold;
 }
 
+/* Footer style */
+
+footer {
+  background-color: #eeeeee;
+  text-align: center;
+}
+
