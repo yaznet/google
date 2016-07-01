@@ -71,9 +71,17 @@ input {
 /* Footer style */
 
 footer {
-  background-color: #eeeeee;
-  text-align: center;
+  position: fixed;
+  background-color: #eee;
+  bottom: 0;
+  padding:;
+  width: 100%;
+  left: 0;
+  border-top: 1px solid #ddd;
+  box-sizing: border-box;
 }
+
+
 
 
 /* ###########################################################################################
@@ -85,7 +93,7 @@ footer {
 /* Search style */
 
 .search {
-  padding-top: 10%;
+padding-top: 10%;
   padding-bottom: 5%;
   text-align: center;
 }
@@ -113,7 +121,17 @@ footer nav {
   color: #757575;
   height: 40px;
   background-color: #eeeeee;
-  border: 1px solid #e0e0e0;
+}
+
+footer {
+  position: fixed;
+  background-color: #eee;
+  bottom: 0;
+  padding:;
+  width: 100%;
+  left: 0;
+  border-top: 1px solid #ddd;
+  box-sizing: border-box;
 }
 
 }
@@ -126,7 +144,7 @@ footer nav {
 @media screen and (min-width: 900px) {
 
 .search {
-  padding-top: 21%;
+	padding-top: 21%;
   padding-bottom: 15%;
   text-align: center;
 }
@@ -137,7 +155,21 @@ input {
 }
 
 footer {
-  margin-bottom: 0%;
+  position: fixed;
+  background-color: #eee;
+  bottom: 0;
+  padding:;
+  width: 100%;
+  left: 0;
+  border-top: 1px solid #ddd;
+  box-sizing: border-box;
 }
 
+.menu_bottom_left {
+  float: left;
+}
+
+.menu_bottom_right {
+  float: right;
+}
 }
