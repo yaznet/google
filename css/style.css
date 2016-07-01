@@ -11,3 +11,10 @@ body {
     height: 100%;
     margin: 0;
 }
+
+/* BODY */
+
+.menu_right {
+  float: right;
+}
+
