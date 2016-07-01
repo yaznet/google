@@ -54,3 +54,17 @@ nav li {
   text-align: center;
 }
 
+input {
+  height: 30px;
+  width: 240px;
+  margin-bottom: 20px;
+}
+
+.search_bouton {
+  color: #757575;
+  background-color: #eeeeee;
+  padding: 10px 20px 10px 20px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
