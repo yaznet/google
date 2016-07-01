@@ -82,8 +82,16 @@ footer {
 
 @media screen and (min-width: 450px) {
 
+/* Search style */
+
 .search {
   padding-top: 10%;
   padding-bottom: 5%;
   text-align: center;
+}
+
+/* Size input */
+input {
+  height: 30px;
+  width: 350px;
 }
